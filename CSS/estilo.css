@@ -3,7 +3,7 @@ body{
 }
 
 #fondoia{
-    background-image: url(../img/fondoai2.webp);
+    background-image: url(../fondoai2.webp);
     height: 1000px;
     background-size: cover; 
     background-repeat: no-repeat;
