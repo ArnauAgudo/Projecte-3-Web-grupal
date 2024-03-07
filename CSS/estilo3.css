@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(29, 43, 107);
+}
+header {
+    background-color: #87b3e2;
+    color: #fff;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+h1, h2 {
+    color: #ffffff;
+}
+p {
+    line-height: 1.6;
+    margin-left: 20px;
+    color: white;
+}
+img {
+    max-width: 200px;
+    border-radius: 10px;
+}
+.infosobremi {
+    margin-left: 20px;
+}
+.infosobremi h2 {
+    margin-top: 0;
+}
+
+.correo {
+    margin-top: 20px;
+}
+.correo a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#menuSuperior nav ul{
+    display: flex; 
+    font-size: 30px;
+    float: right;
+}
+
+#menuSuperior nav ul li a{ 
+    text-decoration: none; 
+    color: rgb(47, 64, 165);
+}
+
+#menuSuperior nav ul li{ 
+    list-style: none; 
+    padding: 20px; 
+}

@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(29, 43, 107);
+}
+
+#fondoia{
+    background-image: url(../img/fondoai2.webp);
+    height: 1000px;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+#menuSuperior nav ul{
+    display: flex; 
+    font-size: 30px;
+    float: right;
+}
+
+#menuSuperior nav ul li a{ 
+    text-decoration: none; 
+    color: rgb(78, 134, 172);
+}
+
+#menuSuperior nav ul li{ 
+    list-style: none; 
+    padding: 20px; 
+}
+
+#filaLogo img{
+    display: flex; 
+    justify-content: space-between;
+    float: left;
+    height: 150px;
+}
+
+#titulo h1{
+    display: flex; 
+    justify-content: space-around;
+    float: inherit;
+    color: rgb(60, 98, 168);
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+#iatexto ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+#iatexto img{
+    height: 400px;
+    width: 300px;
+}
+
+#titulotexto h1{
+    color: rgb(60, 98, 168);
+}
+
+#iaimagen ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+#iaimagen img{
+    height: 400px;
+    width: 300px;
+}
+
+#iavoz ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+#iavoz img{
+    height: 400px;
+    width: 300px;
+}
+
+#paginasia p{ 
+    font-size: 30px;
+}
+#paginasia img{
+    height: 300px;
+}
+
+#paginasia h1{
+font-size: 60px;
+color: white;
+}
+
+#paginasia div nav a{
+    list-style: none;    
+}
+
+.colortexto{
+    color: rgb(255, 255, 255);
+}
+
+p{
+color: white;
+}
+
+.banner{
+    height: 500px;
+    width: 1900px;
+ }
